@@ -4,7 +4,7 @@ This application is used to perform Real-time face recognition using Mako-G Came
 
       System Requirements
   			1.Pymba(Python implementation of Vimba Library)
-			2. Face_recognition
+			2.Face_recognition
 			3.openCV
 			4.numpy
 			5.pickle
