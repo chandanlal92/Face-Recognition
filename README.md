@@ -9,6 +9,7 @@ System Requirements
   - numpy
   - pickle
   - scikit
-			
-	
+
+1. Train Face Encodings			
+
           
